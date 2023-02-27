@@ -1,3 +1,3 @@
-# hello-world
+# Portfolio
 About me
-Marietta - Gdansk, Poland. Reach out to marietta.kaminska.priv@gmail.com to connect.
+Marietta - based in Gdansk, Poland. Reach out to marietta.kaminska.priv@gmail.com to connect.
